@@ -9,7 +9,7 @@ MERDV in mosquitoes from Palenque,Chiapas, Mexico.
 
 ---
 
-This work was performed using the HPC infrastructure at the **Unidad Universitaria de Secuenciación Masiva y Bioinformática, Instituto de Biotecnología (UNAM)**, which is part of the Laboratorio Nacional de Apoyo Tecnológico a las Ciencias Genómicas (CONACyT).
+This work was performed using the HPC infrastructure at the **Unidad Universitaria de Secuenciación Masiva y Bioinformática, Instituto de Biotecnología (UNAM)**, which is part of the Laboratorio Nacional de Apoyo Tecnológico a las Ciencias Genómicas (LNATCG).
 
 We thank the Instituto de Biotecnología-UNAM for giving us access to its computer cluster.
 
