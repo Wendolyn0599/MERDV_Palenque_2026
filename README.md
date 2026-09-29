@@ -158,8 +158,6 @@ All R scripts should be executed in the following order, as each script depends 
 
 ## R script execution order and dependencies
 
-```
-
 ### 1. Detection and positivity analysis
 source("MERDV_detection.R")  # Generates set1_positiveRhab and plots
 
@@ -189,7 +187,7 @@ The following analyses were performed manually using external tools and are not 
 **Note:** For selection analysis, genes N, P, M, G, and L were analyzed independently. Gene-wide dN/dS (ω) values were obtained from the MG94xREV model in FEL.
 
 
----
+
 
 
 
