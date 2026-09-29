@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_040599.1 1 11798
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1803034
+NC_040599.1	RefSeq	region	1	11798	.	+	.	ID=NC_040599.1:1..11798;Dbxref=taxon:1803034;collection-date=2007;country=Mexico;gbkey=Src;genome=genomic;isolate=MERD-Mex07;mol_type=genomic RNA;nat-host=Culex quinquefasciatus
+NC_040599.1	RefSeq	gene	131	1567	.	+	.	ID=gene-EXJ52_gp1;Dbxref=GeneID:41700619;Name=EXJ52_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EXJ52_gp1
+NC_040599.1	RefSeq	CDS	131	1567	.	+	0	ID=cds-YP_009552111.1;Parent=gene-EXJ52_gp1;Dbxref=GenBank:YP_009552111.1,GeneID:41700619;Name=YP_009552111.1;gbkey=CDS;locus_tag=EXJ52_gp1;product=nucleoprotein;protein_id=YP_009552111.1
+NC_040599.1	RefSeq	gene	1660	2862	.	+	.	ID=gene-EXJ52_gp2;Dbxref=GeneID:41700618;Name=EXJ52_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EXJ52_gp2
+NC_040599.1	RefSeq	CDS	1660	2862	.	+	0	ID=cds-YP_009552112.1;Parent=gene-EXJ52_gp2;Dbxref=GenBank:YP_009552112.1,GeneID:41700618;Name=YP_009552112.1;gbkey=CDS;locus_tag=EXJ52_gp2;product=phosphoprotein;protein_id=YP_009552112.1
+NC_040599.1	RefSeq	gene	2917	3477	.	+	.	ID=gene-EXJ52_gp3;Dbxref=GeneID:41700620;Name=EXJ52_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EXJ52_gp3
+NC_040599.1	RefSeq	CDS	2917	3477	.	+	0	ID=cds-YP_009552113.1;Parent=gene-EXJ52_gp3;Dbxref=GenBank:YP_009552113.1,GeneID:41700620;Name=YP_009552113.1;gbkey=CDS;locus_tag=EXJ52_gp3;product=matrix protein;protein_id=YP_009552113.1
+NC_040599.1	RefSeq	gene	3586	5112	.	+	.	ID=gene-EXJ52_gp4;Dbxref=GeneID:41700622;Name=EXJ52_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EXJ52_gp4
+NC_040599.1	RefSeq	CDS	3586	5112	.	+	0	ID=cds-YP_009552114.1;Parent=gene-EXJ52_gp4;Dbxref=GenBank:YP_009552114.1,GeneID:41700622;Name=YP_009552114.1;gbkey=CDS;locus_tag=EXJ52_gp4;product=glycoprotein;protein_id=YP_009552114.1
+NC_040599.1	RefSeq	gene	5266	11676	.	+	.	ID=gene-EXJ52_gp5;Dbxref=GeneID:41700621;Name=EXJ52_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EXJ52_gp5
+NC_040599.1	RefSeq	CDS	5266	11676	.	+	0	ID=cds-YP_009552115.1;Parent=gene-EXJ52_gp5;Dbxref=GenBank:YP_009552115.1,GeneID:41700621;Name=YP_009552115.1;Note=L protein;gbkey=CDS;locus_tag=EXJ52_gp5;product=RNA-dependent RNA polymerase;protein_id=YP_009552115.1
+
